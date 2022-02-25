@@ -8,14 +8,14 @@ In my Floracycle app, users can filter classifieds based on categorical tags, pr
 ![Floracycle Filter Feature](/static/images/Floracycle2.gif)
 
 ## Contents
-* [Floracycle Overview](#floracycle)
+* [Floracycle Overview](#overview)
 * [Features](#features)
 * [Tech Stack](#tech)
 * [Demo Link](#demo)
 * [Developer Info](#developer)
 
 
-## <a name="floracycle"></a>Floracycle Overview
+## <a name="overview"></a>Floracycle Overview
 
 Floracycle is a web-based marketplace for sharing, recycling, buying and selling floral and gardening services and goods. Floracycle was created to connect local and urban farmers with one another to source materials, share skills and resources, all the while reducing waste. 
 
