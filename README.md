@@ -1,9 +1,9 @@
 # Sample Code
 ## Floracycle
 
-This is a sample code for the FILTER feature of my project called [Floracycle](https://github.com/joannalee56/floracycle). 
+This sample code highlights the FILTER feature of my project called [Floracycle](https://github.com/joannalee56/floracycle). 
 
-Users can filter classifieds based on categorical tags, price, and location. The search feature queries the database by keywords found in the classified titles and descriptions, and relevant classified results are returned using Jinja templating. 
+In my Floracycle app, users can filter classifieds based on categorical tags, price, and location. The search feature queries the database by keywords found in the classified titles and descriptions, and relevant classified results are returned using Jinja templating. 
 
 ![Floracycle Filter Feature](/static/images/Floracycle2.gif)
 
